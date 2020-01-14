@@ -1,0 +1,5 @@
+requests==2.22.0
+numpy==1.16.4
+matplotlib==2.2.4
+networkx==1.11
+pygraphviz==1.5
